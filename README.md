@@ -38,6 +38,6 @@ L'application met l'accent sur l'utilisation de Tkinter pour créer une interfac
 
 2. Lancer l'application :
    ```bash
-   python PyCalcTK.py
+   python calculatrice.py
 
 
