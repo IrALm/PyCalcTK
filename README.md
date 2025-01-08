@@ -31,3 +31,11 @@ L'application met l'accent sur l'utilisation de Tkinter pour créer une interfac
   ```bash
   sudo apt-get install python3-tk
 
+1. cloner le depot :
+   git clone https://github.com/votre-utilisateur/PyCalcTK.git
+   cd PyCalcTK
+
+2. Lancer l'application :
+   python pycalctk.py
+
+
